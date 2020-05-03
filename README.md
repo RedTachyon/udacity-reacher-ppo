@@ -46,3 +46,5 @@ be at least 1.5.0. You can also use `pip install -r requirements.txt`
 ### Instructions
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
+
+To use tensorboard (if installed on your system), you can type `tensorboard --logdir ~/drlnd_logs` and navigate to `localhost:6006` in your browser to see the training unfold
